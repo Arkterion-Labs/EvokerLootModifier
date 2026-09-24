@@ -1,6 +1,7 @@
 name: EvokerLootModifier
 main: DisableTotems.EvokerLootModifier
-version: 2.0
-api-version: 1.21
+version: 2.1
+api-version: '26.2'
 description: "Replaces Totems of Undying with gold ingots in evoker loot"
-author: "VazarinX"
+author: Arkterion Labs
+website: https://arkterion.com
